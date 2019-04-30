@@ -19,5 +19,8 @@
 * metrics為accuracy
 
 ### 步驟四：訓練模型
+* 加法模型 (training size = 18000時可獲得最佳validation accuracy)
+* 減法模型 (training size = 45000時可獲得最佳validation accuracy)
+* 加減法模型(training size = 80000時可獲得最佳validation accuracy)
 
 ### 步驟五：驗證模型
